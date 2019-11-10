@@ -1,0 +1,4 @@
+-> install python3 on ubuntu. - (done)
+
+-> start course videos -(tbd)
+
